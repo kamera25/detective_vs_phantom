@@ -64,6 +64,8 @@
 - [MusMus様](https://musmus.main.jp)
 - [音ジャム様](https://dova-s.jp)
 
+※上記ファイルは再配布禁止のため、このリポジトリには同封しておりません。各々のページにてSE/BGMの入手をお願いいたします。
+
 #### ライセンス: [ Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)][license-link]
 #### [GGJの法的とポリシー情報][ggj-legal-link]
 
