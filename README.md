@@ -1,6 +1,6 @@
 # 探偵と怪盗 - Detective vs Phantom
 
-![スクリーンショット](https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/featured_image/2021/01/195887/3be7af8133a7b9c2.png?itok=kTwSvwO6&timestamp=1611974208)
+![Screenshot1](press/screenshot1.png)
 
 [探偵と怪盗](https://globalgamejam.org/2021/games/detective-vs-phantom-6)は[グローバルゲームジャム2021オンライン@瀬戸内会場](https://globalgamejam.org/2021/jam-sites/setouchi)で作成したゲームです。  
 
