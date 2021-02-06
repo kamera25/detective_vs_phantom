@@ -7,7 +7,7 @@
 プレイヤーは探偵と怪盗になることができます。  
 怪盗はお宝を奪い続けましょう。探偵は怪盗を逮捕してお宝が奪われるのを阻止しましょう。
 
-[遊んでみる(Win版公開中)](https://github.com/kamera25/detective_vs_phantom/tags)
+[遊んでみる(v1.1公開中)](https://github.com/kamera25/detective_vs_phantom/tags)
 
 ## 操作
   - 開始直後、あなたは探偵として正義のため生きるか、怪盗として生きるかを決めます。
@@ -54,9 +54,9 @@
 - Dr.ツキツキキ - Programmer
 - kerokerop0607 - Programmer
 - watanabe - Effect engineer
-- kumasho - UI Designer
+- kumasho - UI Designer / Designer
 - Yasu - Programmer
-- kamera25 - 3D Modeler
+- kamera25 - 3D Modeler 
 
 ### お借りした素材
 - [効果音LAB様](https://soundeffect-lab.info)
